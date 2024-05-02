@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<title>Lab 7</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.0/react.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.0/react-dom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/classnames/2.1.5/index.min.js"></script>
+<link href="css/capcss.css" rel="stylesheet">
+</head>
+<body>
+
+	<div id="nav"></div>
+
+<div id="golfCourseHoles">
+	<main>
+<div id="holeTable">
+	<table>
+		
+		<tr>
+			<td>
+					<div id="tableHole">
+						<img  src="image/hole1.png"/>
+						<div id="holeQuickInfo">
+							<div id="infoLeft">
+								<p>PAR 4</p> 	
+							</div>
+							<div id ="infoQuickCenter">
+								<h1> Hole 1</h1>
+							</div>
+							<div id="infoRight">
+								<p>414 YARDS</p>
+							</div>
+							 
+						</div>
+
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<img  src="image/hole2.png"/>
+					<div id="holeQuickInfo">
+						<div id="infoLeft">
+							<p>PAR 4</p> 	
+						</div>
+						<div id ="infoQuickCenter">
+							<h1> Hole 2</h1>
+						</div>
+						<div id="infoRight">
+							<p>417 YARDS</p>
+						</div>
+						 
+					</div>
+
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				<img  src="image/hole3.png"/>
+				<div id="holeQuickInfo">
+					<div id="infoLeft">
+						<p>PAR 4</p> 	
+					</div>
+					<div id ="infoQuickCenter">
+						<h1> Hole 3</h1>
+					</div>
+					<div id="infoRight">
+						<p>397 YARDS</p>
+					</div>
+					 
+				</div>
+
+
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+					<div id="tableHole">
+						
+						
+						<div id="holePara">
+							<p>Straightaway par 4 offers the chance for a <br>  
+							strong start. Generous fairway makes it  <br>  
+							relatively easy to avoid the fairway bunker  <br>  
+							on the right, setting up a short approach.<br>  </p>
+						</div>
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<div id="holePara">
+						<p>This is a nervy tee shot as players must avoid <br>
+							a bunker in the elbow of the dogleg right.  <br>
+							Find the short grass and an uphill shot  <br>
+							to a lightly protected green awaits<br>
+						  </p>
+					</div>
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+
+				<div id="holePara">
+					<p> A well struck drive will carry the bunkers<br>   
+						in the corner of this dogleg right,  <br> 
+						setting up a short approach to  <br> 
+						one of the layout’s most accessible greens. <br> 
+				</p>
+				</div>
+
+			</div>
+			</td>
+		</tr>
+
+
+		<tr>
+			<td>
+					<div id="tableHole">
+						<img  src="image/hole4.png"/>
+						<div id="holeQuickInfo">
+							<div id="infoLeft">
+								<p>PAR 3</p> 	
+							</div>
+							<div id ="infoQuickCenter">
+								<h1> Hole 4</h1>
+							</div>
+							<div id="infoRight">
+								<p>190 YARDS</p>
+							</div>
+							 
+						</div>
+
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<img  src="image/hole5.png"/>
+					<div id="holeQuickInfo">
+						<div id="infoLeft">
+							<p>PAR 4</p> 	
+						</div>
+						<div id ="infoQuickCenter">
+							<h1> Hole 5</h1>
+						</div>
+						<div id="infoRight">
+							<p>404 YARDS</p>
+						</div>
+						 
+					</div>
+
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				<img  src="image/hole6.png"/>
+				<div id="holeQuickInfo">
+					<div id="infoLeft">
+						<p>PAR 5</p> 	
+					</div>
+					<div id ="infoQuickCenter">
+						<h1> Hole 6</h1>
+					</div>
+					<div id="infoRight">
+						<p>566 YARDS</p>
+					</div>
+					 
+				</div>
+
+
+			</div>
+			</td>
+		</tr>	
+		<tr>
+			<td>
+					<div id="tableHole">
+						
+						<div id="holePara">
+							<p>Tricky one-shotter that is  <br>
+								often impacted by the wind.  <br>
+								When the pin is back left, don’t get greedy.  <br>
+								Middle of the green is your friend anytime. <br>
+						</p>
+						</div>
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					
+					<div id="holePara">
+						<p> Long hitters can try and cut the corner of this <br>
+							hard dogleg left but for most, this is a  <br>
+							delicate tee shot. Clear the corner of the dogleg <br>
+							and you will have a mid to long iron to a  <br>
+							green fronted by three bunkers.<br>
+					 </p>
+					</div>
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				
+				<div id="holePara">
+					<p> A three-shot par 5. Avoid pushing your drive <br>
+						into the pine trees on the right <br>
+						and two well executed shots will deliver<br> 
+						the chance for par (or better).<br>
+					  </p>
+				</div>
+
+			</div>
+			</td>
+		</tr>
+
+
+
+
+	
+		<tr>
+			<td>
+					<div id="tableHole">
+						<img  src="image/hole7.png"/>
+						<div id="holeQuickInfo">
+							<div id="infoLeft">
+								<p>PAR 3</p> 	
+							</div>
+							<div id ="infoQuickCenter">
+								<h1> Hole 7</h1>
+							</div>
+							<div id="infoRight">
+								<p>173 YARDS</p>
+							</div>
+							 
+						</div>
+						
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<img  src="image/hole8.png"/>
+					<div id="holeQuickInfo">
+						<div id="infoLeft">
+							<p>PAR 5</p> 	
+						</div>
+						<div id ="infoQuickCenter">
+							<h1> Hole 8</h1>
+						</div>
+						<div id="infoRight">
+							<p>541 YARDS</p>
+						</div>
+						 
+					</div>
+					
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				<img  src="image/hole9.png"/>
+				<div id="holeQuickInfo">
+					<div id="infoLeft">
+						<p>PAR 4</p> 	
+					</div>
+					<div id ="infoQuickCenter">
+						<h1> Hole 9</h1>
+					</div>
+					<div id="infoRight">
+						<p>390 YARDS</p>
+					</div>
+					 
+				</div>
+				
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+					<div id="tableHole">
+
+						<div id="holePara">
+							<p>Difficulty of the hole is largely determined <br>
+								by where the pin is set. A large pond fronts  <br>
+								the green and when the flag is on the right side, <br> 
+								a longer, more dangerous tee shot is required.  <br>
+						</p>
+						</div>
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+
+					<div id="holePara">
+						<p> Ideal drive is a draw, using a willow tree <br>
+							just left of water that might be hard to see <br>
+							from the tee as an aiming point.  <br>
+							Avoid the fairway bunker that looms in the <br>
+							landing area for your second shot  <br>
+							and an inviting green awaits.<br>
+					 </p>
+					</div>
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+
+				<div id="holePara">
+					<p>Pick a club you are comfortable with off the tee<br>
+						and play to a number for the approach.  <br>
+						There isn’t much reward for being overly  <br>
+						aggressive and long hitters can reach water  <br>
+						on the right. An undulating green means a <br>
+						two-putt is far from a guarantee. <br>
+				</p>
+				</div>
+
+			</div>
+			</td>
+		</tr>
+
+
+
+
+
+		<tr>
+			<td>
+					<div id="tableHole">
+						<img  src="image/hole10.png"/>
+						<div id="holeQuickInfo">
+							<div id="infoLeft">
+								<p>PAR 5</p> 	
+							</div>
+							<div id ="infoQuickCenter">
+								<h1> Hole 10</h1>
+							</div>
+							<div id="infoRight">
+								<p>529 YARDS</p>
+							</div>
+							 
+						</div>
+						
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<img  src="image/hole11.png"/>
+					<div id="holeQuickInfo">
+						<div id="infoLeft">
+							<p>PAR 3</p> 	
+						</div>
+						<div id ="infoQuickCenter">
+							<h1> Hole 11</h1>
+						</div>
+						<div id="infoRight">
+							<p>205 YARDS</p>
+						</div>
+						 
+					</div>
+					
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				<img  src="image/hole12.png"/>
+				<div id="holeQuickInfo">
+					<div id="infoLeft">
+						<p>PAR 4</p> 	
+					</div>
+					<div id ="infoQuickCenter">
+						<h1> Hole 12</h1>
+					</div>
+					<div id="infoRight">
+						<p>361 YARDS</p>
+					</div>
+					 
+				</div>
+
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+					<div id="tableHole">
+
+						<div id="holePara">
+							<p> After a pair of difficult holes, arrive at the tee<br> 
+								ready to bomb away. This par 5 is reachable for  <br> 
+								some and devoid of significant danger.  <br> 
+								Putting surface features two distinct tiers  <br> 
+								so pay attention to where the pin is set.  <br> 
+						</p>
+						</div>
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+
+					<div id="holePara">
+						<p>Nothing complicated about the challenge.   <br> 
+							The length is partially offset by a   <br> 
+							lack of significant danger, making this a   <br> 
+							classic hard par, easy bogey.  <br> 
+					</p>
+					</div>
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+
+				<div id="holePara">
+					<p> Avoid the temptation to get too aggressive.  <br> 
+						The fairway is generous with the ideal tee shot <br> 
+						favoring the right-center.  <br> 
+						The longer the drive, the narrower  <br> 
+						the landing area and greater the threat  <br> 
+						from the water. Play smart.<br> 
+				 </p>
+				</div>
+
+			</div>
+			</td>
+		</tr>
+
+
+
+
+		<tr>
+			<td>
+					<div id="tableHole">
+						<img  src="image/hole13.png"/>
+						<div id="holeQuickInfo">
+							<div id="infoLeft">
+								<p>PAR 5</p> 	
+							</div>
+							<div id ="infoQuickCenter">
+								<h1> Hole 13</h1>
+							</div>
+							<div id="infoRight">
+								<p>529 YARDS</p>
+							</div>
+							 
+						</div>
+
+						</div>
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<img  src="image/hole14.png"/>
+					<div id="holeQuickInfo">
+						<div id="infoLeft">
+							<p>PAR 4</p> 	
+						</div>
+						<div id ="infoQuickCenter">
+							<h1> Hole 14</h1>
+						</div>
+						<div id="infoRight">
+							<p>391 YARDS</p>
+						</div>
+						 
+					</div>
+
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				<img  src="image/hole15.png"/>
+				<div id="holeQuickInfo">
+					<div id="infoLeft">
+						<p>PAR 5</p> 	
+					</div>
+					<div id ="infoQuickCenter">
+						<h1> Hole 15</h1>
+					</div>
+					<div id="infoRight">
+						<p>429 YARDS</p>
+					</div>
+					 
+				</div>
+
+
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+					<div id="tableHole">
+						
+						<div id="holePara">
+							<p> This is a hole to be aggressive.  <br>
+								An elevated green makes it difficult to reach  <br>
+								in two but swing away in search of birdie.<br>
+						</p>
+						</div>
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					
+					<div id="holePara">
+						<p>Water runs the length of the hole  <br>
+							along the right side. The fairway is generous <br>
+							in the primary landing area <br>
+							but tightens up the longer you hit it,  <br>
+							so approach with caution. <br>
+							You must fly the ball to the course’s <br>
+							most undulating putting surface. <br>
+					 </p>
+					</div>
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				
+				<div id="holePara">
+					<p> The challenge on Palmetto’s longest par 4 is  <br>
+						accentuated by water that runs along  <br>
+						the right side. This is one of the day’s  <br>
+						most benign greens and there are  <br>
+						no surrounding bunkers but getting there 
+						isn’t easy. <br>
+				</p>
+				</div>
+
+			</div>
+			</td>
+		</tr>
+
+
+
+
+
+		<tr>
+			<td>
+					<div id="tableHole">
+						<img  src="image/hole16.png"/>
+						<div id="holeQuickInfo">
+							<div id="infoLeft">
+								<p>PAR 4</p> 	
+							</div>
+							<div id ="infoQuickCenter">
+								<h1> Hole 16</h1>
+							</div>
+							<div id="infoRight">
+								<p>422 YARDS</p>
+							</div>
+							 
+						</div>
+
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<img  src="image/hole17.png"/>
+					<div id="holeQuickInfo">
+						<div id="infoLeft">
+							<p>PAR 3</p> 	
+						</div>
+						<div id ="infoQuickCenter">
+							<h1> Hole 17</h1>
+						</div>
+						<div id="infoRight">
+							<p>179 YARDS</p>
+						</div>
+						 
+					</div>
+
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				<img  src="image/hole18.png"/>
+				<div id="holeQuickInfo">
+					<div id="infoLeft">
+						<p>PAR 4</p> 	
+					</div>
+					<div id ="infoQuickCenter">
+						<h1> Hole 18</h1>
+					</div>
+					<div id="infoRight">
+						<p>468 YARDS</p>
+					</div>
+					 
+				</div>
+
+
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div id="tableHole">
+						<div id="holePara">
+							<p> Don’t let the three fairway bunkers fool you.  <br>
+								The landing area is generous and a good drive <br> 
+								will sail over top of the sand.  <br>
+								This hole doesn’t seem to play as long as the  <br>
+								scorecard suggests and the green is a  
+								welcoming one.  <br>
+						</p>
+						</div>
+
+					</div>
+			</td>
+			<td>
+				<div id="tableHole">
+					<div id="holePara">
+						<p> This hole offers an elevated tee with a  <br>
+							panoramic view of the green, surrounded by  <br>
+							subtle slopes and a strategically placed bunker.  <br>
+							This hazard challenges aggressive approaches, <br>
+							requiring golfers to land their tee shots  <br>
+							with pinpoint accuracy. Success may  <br>
+							yield a birdie, but the slightest miscalculation  <br>
+							could lead to a challenging recovery.  <br>
+					</p>
+					</div>
+
+				</div>
+			</td>
+			<td>
+			<div id="tableHole">
+				
+				<div id="holePara">
+					<p> Playing along the Intracoastal Waterway, <br>
+						the view from the elevated tee box <br>
+						is unforgettable. The fairway is the course’s  <br>
+						widest so finding the short grass shouldn’t <br>
+						be a problem but hitting a green that  <br>
+						runs from left to right and is surrounded  <br>
+						by three bunkers is a challenge.<br>
+				</p>
+				</div>
+
+			</div>
+			</td>
+		</tr>
+	</table>
+</div>
+</main>
+</div>
+
+
+
+
+<div id="footer"></div>
+<script type="text/babel" src="scripts/footer.js"></script>
+<script type="text/babel" src="scripts/thetitle.js"></script>
+<script type="text/babel" src="scripts/nav.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "lab7",
+  "main": "server.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specific\" && exit 1"
+  },
+  "author": {
+    "name": "De'Anna Jones"
+  },
+  "license": "ISC",
+
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2":"^2.1.0",
+    "react" : "^16.12.0"
+  }
+}
