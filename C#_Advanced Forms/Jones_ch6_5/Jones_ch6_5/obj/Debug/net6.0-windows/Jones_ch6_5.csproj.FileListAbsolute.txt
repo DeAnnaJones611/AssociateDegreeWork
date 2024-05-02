@@ -1,0 +1,32 @@
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.exe
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.deps.json
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.runtimeconfig.json
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.dll
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.pdb
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.Form1.resources
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.csproj.GenerateResource.cache
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.AssemblyInfoInputs.cache
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.AssemblyInfo.cs
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.csproj.CoreCompileInputs.cache
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.dll
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\refint\Jones_ch6_5.dll
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.pdb
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.genruntimeconfig.cache
+F:\1st Year at College\Summer Semester\C# Programming (CPT_230_I01)\6 Chapter\Jones_ch6_5\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\ref\Jones_ch6_5.dll
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.exe
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.deps.json
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.runtimeconfig.json
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.dll
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\bin\Debug\net6.0-windows\Jones_ch6_5.pdb
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.Form1.resources
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.csproj.GenerateResource.cache
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.AssemblyInfoInputs.cache
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.AssemblyInfo.cs
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.csproj.CoreCompileInputs.cache
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.dll
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\refint\Jones_ch6_5.dll
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.pdb
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\Jones_ch6_5.genruntimeconfig.cache
+D:\GitHubPost\C#\Jones_ch6_5\Jones_ch6_5\obj\Debug\net6.0-windows\ref\Jones_ch6_5.dll
