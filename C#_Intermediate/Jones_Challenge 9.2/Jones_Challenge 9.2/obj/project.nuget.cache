@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8FTVjYCzOMuVXiotg6Mo9ohJckTlJ9iIDyxysdo3dMrxXkF/h7daQPdYTjdS8i+k7l2JyrMIDZ9D1YklZHjbjQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHubPost\\C#\\Jones_Challenge 9.2\\Jones_Challenge 9.2\\Jones_Challenge 9.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deann\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\deann\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\deann\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\deann\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

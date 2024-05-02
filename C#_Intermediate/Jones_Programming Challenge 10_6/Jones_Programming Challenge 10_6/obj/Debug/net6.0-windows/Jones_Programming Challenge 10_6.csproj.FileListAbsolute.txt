@@ -1,0 +1,51 @@
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.exe
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.deps.json
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.runtimeconfig.json
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.dll
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.pdb
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming_Challenge_10_6.Form1.resources
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming_Challenge_10_6.ReultForm.resources
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.csproj.GenerateResource.cache
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.GeneratedMSBuildEditorConfig.editorconfig
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.AssemblyInfoInputs.cache
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.AssemblyInfo.cs
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.csproj.CoreCompileInputs.cache
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.dll
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\refint\Jones_Programming Challenge 10_6.dll
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.pdb
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.genruntimeconfig.cache
+F:\2nd Year at College\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\ref\Jones_Programming Challenge 10_6.dll
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.exe
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.deps.json
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.runtimeconfig.json
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.dll
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.pdb
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming_Challenge_10_6.Form1.resources
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming_Challenge_10_6.ReultForm.resources
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.csproj.GenerateResource.cache
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.AssemblyInfoInputs.cache
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.AssemblyInfo.cs
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.csproj.CoreCompileInputs.cache
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.dll
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\refint\Jones_Programming Challenge 10_6.dll
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.pdb
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.genruntimeconfig.cache
+D:\TestC#\Object Oriented Technologies (IST_271_I01)\10 Week\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\ref\Jones_Programming Challenge 10_6.dll
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.exe
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.deps.json
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.runtimeconfig.json
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.dll
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\bin\Debug\net6.0-windows\Jones_Programming Challenge 10_6.pdb
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming_Challenge_10_6.Form1.resources
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming_Challenge_10_6.ReultForm.resources
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.csproj.GenerateResource.cache
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.AssemblyInfoInputs.cache
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.AssemblyInfo.cs
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.csproj.CoreCompileInputs.cache
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.dll
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\refint\Jones_Programming Challenge 10_6.dll
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.pdb
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\Jones_Programming Challenge 10_6.genruntimeconfig.cache
+D:\GitHubPost\C#\Jones_Programming Challenge 10_6\Jones_Programming Challenge 10_6\obj\Debug\net6.0-windows\ref\Jones_Programming Challenge 10_6.dll
